@@ -1,9 +1,9 @@
 ### Hi there 👋
-##### My skills
+##### My skills 🦾
 <ul>
-  <li>Python</li>
-  <li>Javascript</li>
-  <li> Nodejs </li>
-  <li>Django</li>
-  <li>ReactJS</li>
+  <li> <i class="devicon-django-plain colored"></i> </li>
+  <li> <i class="devicon-django-plain colored"></i> </li>
+  <li> <i class="devicon-django-plain colored"></i> </li>
+  <li> <i class="devicon-django-plain colored"></i> </li>
+  <li> <i class="devicon-django-plain colored"></i> </li>
 </ul>
