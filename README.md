@@ -7,4 +7,6 @@
 
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Dhttps%253A%252F%252Ftwitter.com%252Fpedr0aroucha">
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" href="https://instagram.com/pedr0aroucha" />
+<a href="https://instagram.com/pedr0aroucha" >
+<img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"  />
+</a>
