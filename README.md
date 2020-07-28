@@ -1,11 +1,11 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
-
 ### Hi there 👋
 ##### My skills 🦾
 <ul>
-  <li> <i class="devicon-django-plain colored"></i> </li>
-  <li> <i class="devicon-django-plain colored"></i> </li>
-  <li> <i class="devicon-django-plain colored"></i> </li>
-  <li> <i class="devicon-django-plain colored"></i> </li>
-  <li> <i class="devicon-django-plain colored"></i> </li>
+  <li> <img src="https://img.icons8.com/color/144/000000/python.png"/> </li>
+  <li> <img src="https://img.icons8.com/color/48/000000/django.png"/> </li>
+  <li> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </li>
+  <li> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </li>
+  <li> 
+
+  </li>
 </ul>
