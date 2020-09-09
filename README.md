@@ -13,53 +13,44 @@
 <tbody align="center" >
  <tr>
 <td align="center" width="25%" height="25%" >
-<span><b><center>ReactJS</center></b></span> 
 <img src="https://img.icons8.com/ultraviolet/2x/react.png"/>
 </td>
 
 <td align="center" width="25%" height="25%" >
-<span><b><center>JavaScript</center></b></span> 
 <img src="https://img.icons8.com/color/2x/javascript.png"/>
 </td>
 
 <td align="center" width="25%" height="25%">
-<span><b><center>NodeJS</center></b></span> 
 <img src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="25%" height="25%">
-<span><b><center>SQL</center></b></span> 
 <img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center" width="25%" height="25%">
-<span><b><center>Git</center></b></span> 
 <img src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="25%" height="25%">
-<span><b><center>Bash</center></b></span> 
 <img src="https://img.icons8.com/fluent/2x/console.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="25%" height="25%">
-<span><b><center>Python</center></b></span> 
 <img src="https://img.icons8.com/color/2x/python.png"/>
 </td>
 
 <td align="center" width="25%" height="25%">
-<span><b><center>Django</center></b></span> 
 <img src="https://img.icons8.com/color/2x/django.png"/>
 </td>
 
 
 
 <td align="center" width="25%" height="25%">
-<span><b><center>Java</center></b></span> 
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/>
 </td>
 </tr>
