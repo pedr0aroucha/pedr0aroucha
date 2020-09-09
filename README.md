@@ -14,12 +14,12 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<img src="https://img.icons8.com/ultraviolet/2x/react.png"/>
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png">
+<img src="https://img.icons8.com/color/2x/javascript.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -52,15 +52,15 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<span><b><center>Django</center></b></span> 
+<img src="https://img.icons8.com/color/2x/django.png"/>
 </td>
 
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+<span><b><center>Java</center></b></span> 
+<img src="https://img.icons8.com/color/2x/django.png"/>
 </td>
 </tr>
 
