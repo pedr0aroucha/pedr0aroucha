@@ -48,7 +48,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png">  
+<img src="https://img.icons8.com/color/2x/python.png"/>
 </td>
 
 <td align="center" width="20%">
@@ -60,7 +60,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img src="https://img.icons8.com/color/2x/django.png"/>
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"/>
 </td>
 </tr>
 
