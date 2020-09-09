@@ -101,6 +101,6 @@ ____
 
 <p align="center">
 
-⭐️ [piyushxbajaj](https://github.com/piyushxbajaj)
+⭐️ [piyushxbajaj](https://github.com/pedr0aroucha)
 
 </p>
