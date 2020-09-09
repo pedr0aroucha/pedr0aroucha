@@ -41,7 +41,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img src="https://img.icons8.com/fluent/50/000000/console.png"/>
+<img src="https://img.icons8.com/fluent/2x/console.png"/>
 </td>
 </tr>
 
