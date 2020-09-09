@@ -9,8 +9,8 @@
 ## Tech Stack :computer:
 
 <br>
-<table>
-<tbody align="center" >
+<table align="center" >
+<tbody>
  <tr>
 <td align="center" width="25%" height="25%" >
 <img src="https://img.icons8.com/ultraviolet/2x/react.png"/>
