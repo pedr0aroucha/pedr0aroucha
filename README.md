@@ -40,15 +40,15 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+<span><b><center>Bash</center></b></span> 
+<img src="https://img.icons8.com/fluent/48/000000/console.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png">  
 </td>
 
 <td align="center" width="20%">
