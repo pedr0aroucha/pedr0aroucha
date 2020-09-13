@@ -51,7 +51,7 @@
 
 
 <td align="center" width="25%" height="25%">
-https://img.icons8.com/color/2x/c-plus-plus-logo.png
+<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
 </td>
 </tr>
 
