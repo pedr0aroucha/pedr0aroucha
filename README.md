@@ -31,7 +31,7 @@
 </td>
 
 <td align="center" width="25%" height="25%">
-<img src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img src="https://img.icons8.com/fluent/2x/github.png"> 
 </td>
 
 <td align="center" width="25%" height="25%">
