@@ -70,12 +70,3 @@ ____
 <a href="https://instagram.com/pedr0aroucha"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </p>
-
-____
-
-
-<p align="center">
-
-⭐️ [pedr0aroucha](https://github.com/pedr0aroucha)
-
-</p>
