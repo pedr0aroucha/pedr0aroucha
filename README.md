@@ -3,7 +3,7 @@
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
 
 
-<p align="center"> <samp>Hi, My name is Pedro Lucas. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+<p align="center"> <samp>I'm Pedro, I am crazy about code and everything that involves code. I am a focused dev and I try to be organized and creative. I like to watch series, read a cool book and play guitar and drums.. In my repos you'll find projects created using 
   
   
 ## Tech Stack :computer:
