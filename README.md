@@ -17,7 +17,7 @@
 </td>
 
 <td align="center" width="25%" height="25%" >
-<img width="50%" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png">
+<img width="30%" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png">
 </td>
 
 <td align="center" width="25%" height="25%">
