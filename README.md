@@ -16,7 +16,7 @@
 <img src="https://img.icons8.com/ultraviolet/2x/react.png"/>
 </td>
 
-<td align="center" width="25%" height="25%" >
+<td align="center" width="15%" height="15%" >
 <img src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png">
 </td>
 
