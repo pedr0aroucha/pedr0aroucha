@@ -13,7 +13,7 @@
 <tbody>
  <tr>
 <td align="center" width="25%" height="25%" >
-<img src="https://img.icons8.com/ultraviolet/2x/react.png"/>
+<img src="https://img.icons8.com/color/2x/react-native.png"/>
 </td>
 
 <td align="center" width="25%" height="25%" >
