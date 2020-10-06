@@ -32,7 +32,7 @@
   </td>
   
   <td align="center" width="25%" height="25%">
-  <img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
+  <img width="10em" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
   </td>
   
 </tr>
