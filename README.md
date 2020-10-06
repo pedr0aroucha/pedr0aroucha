@@ -30,7 +30,11 @@
   <td align="center" width="25%" height="25%">
   <img src="https://img.icons8.com/color/2x/django.png"/>
   </td>
-
+  
+  <td align="center" width="25%" height="25%">
+  <img src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"/>
+  </td>
+  
 </tr>
 
 <tr>
