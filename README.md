@@ -18,7 +18,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/pedr0aorucha/)
 [![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/pedr0aorucha/)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/pedr0aorucha/)](https://github.com/LuizCarlosAbbott/)
-[![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs.js&link=https://github.com/pedr0aorucha/)](https://github.com/LuizCarlosAbbott/)
+[![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js&link=https://github.com/pedr0aorucha/)](https://github.com/LuizCarlosAbbott/)
 
 ____
 
