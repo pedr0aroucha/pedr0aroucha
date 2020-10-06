@@ -32,11 +32,11 @@
   </td>
   
   <td align="center" width="25%" height="25%">
-  <img width="70em" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
+  <img width="70em" src="https://www.typescriptlang.org/icons/icon-48x48.png?v=e0cca9b778c3248c7434bc3c68c0e8b2"/>
   </td>
   
   <td align="center" width="25%" height="25%">
-  <img width="70em" src="https://www.typescriptlang.org/icons/icon-48x48.png?v=e0cca9b778c3248c7434bc3c68c0e8b2"/>
+  <img width="70em" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
   </td>
   
 </tr>
