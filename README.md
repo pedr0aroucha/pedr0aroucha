@@ -32,7 +32,7 @@
   </td>
   
   <td align="center" width="25%" height="25%">
-  <img src="https://icon2.cleanpng.com/20180802/iwp/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e416770.5741331515332343182679.jpg"/>
+  <img src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
   </td>
   
 </tr>
