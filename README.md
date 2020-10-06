@@ -9,69 +9,27 @@
 ## Tech Stack :computer:
 
 <br>
-<table align="center" >
-<tbody>
-<tr>
-  <td align="center" width="25%" height="25%" >
-  <img src="https://img.icons8.com/color/2x/react-native.png"/>
-  </td>
 
-  <td align="center" width="25%" height="25%" >
-    <img width="70em" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg"> 
-  </td>
-
-  <td align="center" width="25%" height="25%">
-  <img src="https://img.icons8.com/color/2x/nodejs.png"> 
-  </td>
-</tr>
-
-<tr>
-
-  <td align="center" width="25%" height="25%">
-  <img width="70em" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"/>
-  </td>
-  
-  <td align="center" width="25%" height="25%">
-  <img width="70em" src="https://www.typescriptlang.org/icons/icon-48x48.png?v=e0cca9b778c3248c7434bc3c68c0e8b2"/>
-  </td>
-  
-  <td align="center" width="25%" height="25%">
-  <img width="70em" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"/>
-  </td>
-  
-</tr>
-
-<tr>
-  <td align="center" width="25%" height="25%">
-  <img src="https://img.icons8.com/color/2x/python.png"/>
-  </td>
-
-  <td align="center" width="25%" height="25%">
-  <img src="https://img.icons8.com/color/2x/javascript.png"/>
-  </td>
-
-  <td align="center" width="25%" height="25%">
-  <img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-  </td>
-</tr>
-</tbody>
-</table>
-
-<p align="center">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
-____
 
+<h4>Skills and Tools: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
+ 
+</p>
+
+____
 
 
 <h3 align="center"> Other Accounts 📫 </h3>
