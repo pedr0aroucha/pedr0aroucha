@@ -10,43 +10,43 @@
 
 <br>
 <table align="center" >
-  <tbody>
-    <tr>
-      <td align="center" width="25%" height="25%" >
-      <img src="https://img.icons8.com/color/2x/react-native.png"/>
-      </td>
+<tbody>
+<tr>
+  <td align="center" width="25%" height="25%" >
+  <img src="https://img.icons8.com/color/2x/react-native.png"/>
+  </td>
 
-      <td align="center" width="25%" height="25%" >
-        <img width="90em" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg"> 
-      </td>
+  <td align="center" width="25%" height="25%" >
+    <img width="90em" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg"> 
+  </td>
 
-      <td align="center" width="25%" height="25%">
-      <img src="https://img.icons8.com/color/2x/nodejs.png"> 
-      </td>
-    </tr>
+  <td align="center" width="25%" height="25%">
+  <img src="https://img.icons8.com/color/2x/nodejs.png"> 
+  </td>
+</tr>
 
-    <tr>
+<tr>
 
-      <td align="center" width="25%" height="25%">
-      <img src="https://img.icons8.com/color/2x/django.png"/>
-      </td>
+  <td align="center" width="25%" height="25%">
+  <img src="https://img.icons8.com/color/2x/django.png"/>
+  </td>
 
-    </tr>
+</tr>
 
-    <tr>
-      <td align="center" width="25%" height="25%">
-      <img src="https://img.icons8.com/color/2x/python.png"/>
-      </td>
+<tr>
+  <td align="center" width="25%" height="25%">
+  <img src="https://img.icons8.com/color/2x/python.png"/>
+  </td>
 
-      <td align="center" width="25%" height="25%">
-      <img src="https://img.icons8.com/color/2x/javascript.png"/>
-      </td>
+  <td align="center" width="25%" height="25%">
+  <img src="https://img.icons8.com/color/2x/javascript.png"/>
+  </td>
 
-      <td align="center" width="25%" height="25%">
-      <img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-      </td>
-    </tr>
-  </tbody>
+  <td align="center" width="25%" height="25%">
+  <img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+  </td>
+</tr>
+</tbody>
 </table>
 
 ____
