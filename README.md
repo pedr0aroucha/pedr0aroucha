@@ -11,7 +11,7 @@
 <br>
 <table align="center" >
 <tbody>
- <tr>
+<tr>
 <td align="center" width="25%" height="25%" >
 <img src="https://img.icons8.com/color/2x/react-native.png"/>
 </td>
@@ -27,11 +27,11 @@
 
 <tr>
 <td align="center" width="25%" height="25%">
-<img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<img src="https://img.icons8.com/color/2x/django.png"/>
 </td>
-
+  
 <td align="center" width="25%" height="25%">
-<img src="https://img.icons8.com/fluent/2x/github.png"> 
+<img src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
 <td align="center" width="25%" height="25%">
@@ -48,11 +48,6 @@
 <img src="https://img.icons8.com/color/2x/javascript.png"/>
 </td>
 
-
-
-<td align="center" width="25%" height="25%">
-<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"/>
-</td>
 </tr>
 
 
