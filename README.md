@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <h2 align="center"> Hi, I'm Pedro Lucas 👋 <br/> </h2> 
 
 <p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
@@ -17,7 +18,7 @@
 </td>
 
 <td align="center" width="25%" height="25%" >
-<img width="30%" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png">
+<i class="devicon-django-plain"></i>
 </td>
 
 <td align="center" width="25%" height="25%">
