@@ -17,7 +17,7 @@
 </td>
 
 <td align="center" width="25%" height="25%" >
-  <img width="50em" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg"> 
+  <img width="100em" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg"> 
 </td>
 
 <td align="center" width="25%" height="25%">
