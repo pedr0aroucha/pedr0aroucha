@@ -25,6 +25,8 @@
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
+[![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
+
 
 ____
 
