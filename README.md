@@ -1,8 +1,5 @@
 <h2 align="center"> Hi, I'm Pedro Lucas 👋 <br/> </h2> 
 
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
-
 <p align="center"> <samp>I'm Pedro, I am crazy about code and everything that involves code. I am a focused dev and I try to be organized and creative. I like to watch series, read a cool book and play guitar and drums.. In my repos you'll find projects created using 
   
   
@@ -35,7 +32,7 @@ ____
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/pedr0aorucha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pedr0aroucha"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/pedr0aroucha"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </p>
