@@ -17,10 +17,14 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 [![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
+
 [![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 [![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
+
 [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 
 ____
 
