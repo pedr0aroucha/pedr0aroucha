@@ -23,10 +23,6 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 
 ____
-
-# Statics
-![Pedro Lucas github stats](https://github-readme-stats.vercel.app/api?username=pedr0aroucha&show_icons=true)
-
 ____
 
 <h3 align="center"> Other Accounts 📫 </h3>
