@@ -22,9 +22,12 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 [![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 
-
 ____
 
+# Statics
+[![Pedro Lucas github stats](https://github-readme-stats.vercel.app/api?username=pedr0aroucha)](https://github.com/pedr0aroucha)
+
+____
 
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
