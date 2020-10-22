@@ -1,8 +1,5 @@
 <h2 align="center"> Hi, I'm Pedro Lucas 👋 <br/> </h2> 
 
-<p align="center"> <samp>I'm Pedro, I am crazy about code and everything that involves code. I am a focused dev and I try to be organized and creative. I like to watch series, read a cool book and play guitar and drums.. In my repos you'll find projects created using 
-  
-  
 ## Tech Stack :computer:
 
 <br>
