@@ -23,7 +23,7 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
 
 ____
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0aroucha&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0aroucha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ____
 
 <h3 align="center"> Other Accounts 📫 </h3>
