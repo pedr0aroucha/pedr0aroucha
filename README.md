@@ -25,7 +25,7 @@
 ____
 
 # Statics
-![Pedro Lucas github stats](https://github-readme-stats.vercel.app/api?username=pedr0aroucha&show_icons=true&theme=radical)
+![Pedro Lucas github stats](https://github-readme-stats.vercel.app/api?username=pedr0aroucha&show_icons=true)
 
 ____
 
