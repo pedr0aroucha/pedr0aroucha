@@ -1,18 +1,39 @@
 <h2 align="center"> Hi, I'm Pedro Lucas 👋 <br/> </h2> 
 <div align="center" >
-  <h2>Tech Stack :computer:</h2>
-  
-  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![Sass](https://img.shields.io/badge/-Sass-1572B6?style=flat-square&logo=sass&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  [![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&link=https://github.com/pedr0aorucha/)](https://github.com/pedr0aorucha/)
-  
+ 
+### Technical Skills
+#### Languages
+![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
+![Java](https://img.shields.io/badge/Java-007396.svg?logo=java)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-gray.svg)
+
+#### Libraries & Frameworks
+![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
+![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
+![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
+
+#### Architetures & Others
+![MicroServices](https://img.shields.io/badge/MicroServices-gray.svg)
+![MVC](https://img.shields.io/badge/MVC-gray.svg)
+![DesignPattern](https://img.shields.io/badge/Design%20Pattern-gray.svg)
+![CleanCode](https://img.shields.io/badge/Clean%20Code-gray.svg)
+![APIsRestful](https://img.shields.io/badge/APIs%20Restful-gray.svg)
+ 
 </div>
 <hr/>
 <div align="center" >
