@@ -3,7 +3,6 @@
  
 ### Technical Skills
 #### Languages
-![CSharp](https://img.shields.io/badge/C%20Sharp-239120.svg?logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript)
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java)
@@ -13,7 +12,6 @@
 ![SQL](https://img.shields.io/badge/SQL-gray.svg)
 
 #### Libraries & Frameworks
-![Dot-Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.net)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?logo=angular)
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
@@ -22,10 +20,7 @@
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azuredevops)
 ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?logo=microsoft-sql-server)
 
 #### Architetures & Others
 ![MicroServices](https://img.shields.io/badge/MicroServices-gray.svg)
