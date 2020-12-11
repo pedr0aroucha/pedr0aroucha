@@ -10,7 +10,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-gray.svg&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-gray.svg?logo=sql&logoColor=white)
 
 #### Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
