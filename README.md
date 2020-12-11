@@ -8,14 +8,14 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![CSS](https://img.shields.io/badge/java-1572B6.svg?logo=java&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&color=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-gray.svg)
 
 #### Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react)
 ![React](https://img.shields.io/badge/Angular-1572B6.svg?logo=angular)
-![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js)
+![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&color=white)
 ![Django](https://img.shields.io/badge/Django-339933.svg?logo=django)
 
 #### Tools & Platforms
