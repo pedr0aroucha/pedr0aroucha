@@ -30,11 +30,7 @@
 ![APIsRestful](https://img.shields.io/badge/APIs%20Restful-gray.svg)
  
 </div>
-<hr/>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=pedr0aroucha&show_icons=true&theme=radical&title_color=ffffff&bg_color=151515&text_color=ffffff&icon_color=5ab76e"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0aroucha&layout=compact&title_color=ffffff&bg_color=151515&text_color=ffffff"/>
-</div>
+
 <hr/>
 <h3 align="center"> Other Accounts 📫 </h3>
 
