@@ -12,7 +12,6 @@
 
 #### Libraries & Frameworks
 ![React](https://img.shields.io/badge/React-lightgray.svg?logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-1572B6.svg?logo=angular&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-339933.svg?logo=django&logoColor=white)
 
