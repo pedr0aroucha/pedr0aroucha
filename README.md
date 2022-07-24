@@ -10,7 +10,7 @@ When I'm not at the computer working, studying or playing games, I'm doing sport
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Javascript(Nodejs), Python, Java, C++.</strong>
+  🦄 Languages: <strong>Javascript(Nodejs), Python, Java, SQL.</strong>
 </p>
 
 <p align="left">
