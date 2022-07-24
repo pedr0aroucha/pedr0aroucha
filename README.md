@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
 I've been a software developer since 2019. I work in the market as a full satck developer using the most famous javascript technologies with nodejs, python, mysql, nginx and aws.
 
