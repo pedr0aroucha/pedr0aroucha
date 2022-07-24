@@ -15,5 +15,5 @@ When I'm not at the computer working, studying or playing games, I'm doing sport
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Linux, AWS, Docker, Nginx, Terraform.</strong>
+  💼 Tools: <strong>Linux, AWS, Docker, Kubernetes, Nginx, Terraform.</strong>
 </p>
