@@ -11,15 +11,11 @@ When I'm not at the computer working, studying or playing games, I'm doing sport
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript(Nodejs)</strong>
+  🦄 Languages: <strong>Javascript(Nodejs)</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Linux, AWS, Docker, Nginx.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Tools: <strong>Linux, AWS, Docker, Nginx.</strong>
 </p>
 
 <p align="left">
